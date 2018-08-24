@@ -1,4 +1,4 @@
-r1337-linux-users - Changelog
+Linux Users - Changelog
 ==============
 A list of all the changes made to this cookbook
 

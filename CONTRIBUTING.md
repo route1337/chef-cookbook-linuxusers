@@ -1,4 +1,4 @@
-r1337-linux-users - How To Contribute
+Linux Users - How To Contribute
 ==============
 If you would like to help contribute to this Chef cookbook you can with a few simple steps.
 

@@ -24,6 +24,7 @@ platforms:
 
 suites:
   - name: default
+    data_bags_path: "test/data_bags/default/data_bags"
     run_list:
       - recipe[r1337-linux-users::default]
     verifier:

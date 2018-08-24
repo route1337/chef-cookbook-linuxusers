@@ -1,4 +1,4 @@
-r1337-linux-users - Testing
+Linux Users - Testing
 ==============
 All Route 1337 Chef cookbooks are designed to be fully testable inside Kitchen. If you would like to test this Chef cookbook you can with a few simple steps.
 

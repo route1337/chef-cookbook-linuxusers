@@ -10,3 +10,11 @@
 # See LICENSE
 #
 
+# This recipe will call the other recipes in this cookbook based on the detected system
+
+case node['platform']
+when 'ubuntu', 'centos'
+  include_recipe 'r1337-linux-users::users' # Configure the Linux users and common groups on the system
+else
+  # Do nothing
+end

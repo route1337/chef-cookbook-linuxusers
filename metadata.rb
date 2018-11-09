@@ -4,7 +4,7 @@ maintainer_email 'matthew@route1337.com'
 license 'MIT'
 description 'Mange users and common groups on Linux systems'
 long_description 'Manage the automated adding and removal of users and common groups across Linux systems'
-version '0.1.0'
+version '0.1.1'
 chef_version '>= 13.6.4' if respond_to?(:chef_version)
 issues_url 'https://github.com/route1337/chef-cookbook-linuxusers/issues'
 source_url 'https://github.com/route1337/chef-cookbook-linuxusers'

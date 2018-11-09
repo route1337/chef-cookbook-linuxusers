@@ -2,6 +2,11 @@ Linux Users - Changelog
 ==============
 A list of all the changes made to this cookbook
 
+Version 0.1.1
+------------
+
+1. Removing stale cryptocurrency wallets from donation section of README
+
 Version 0.1.0
 ------------
 
